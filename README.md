@@ -1,13 +1,19 @@
 # My-profile
-Hello, this is my profile
-# Hi there 👋 I'm [Your Name]
+<style>
+  .name-animate {
+    display: inline-block;
+    font-size: 2em;
+    font-weight: bold;
+    animation: transformName 2s infinite;
+  }
 
-I'm a passionate developer with interests in [your interests: e.g., web development, machine learning, open source].
+  @keyframes transformName {
+    0%   { transform: scale(1) rotate(0deg); color: #ff4d4d; }
+    25%  { transform: scale(1.2) rotate(5deg); color: #4dff4d; }
+    50%  { transform: scale(1) rotate(-5deg); color: #4d4dff; }
+    75%  { transform: scale(1.2) rotate(5deg); color: #ffff4d; }
+    100% { transform: scale(1) rotate(0deg); color: #ff4d4d; }
+  }
+</style>
 
-- 🔭 I’m currently working on [project name or area]
-- 🌱 I’m currently learning [technology or concept]
-- 👯 I’m looking to collaborate on [type of projects]
-- 💬 Ask me about [topics you're comfortable discussing]
-- 📫 How to reach me: [email@example.com or social link]
-- ⚡ Fun fact: [something quirky or unique about you]
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+<div class="name-animate">SUBESHAN N</div>
