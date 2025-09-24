@@ -10,3 +10,4 @@ I'm a passionate developer with interests in [your interests: e.g., web developm
 - 💬 Ask me about [topics you're comfortable discussing]
 - 📫 How to reach me: [email@example.com or social link]
 - ⚡ Fun fact: [something quirky or unique about you]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
